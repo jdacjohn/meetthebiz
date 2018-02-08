@@ -1,0 +1,35 @@
+.location {
+color: #575757;
+font-size: 12px;
+font-weight: bold;	
+}
+
+.location .info {
+color: #bd8a5c;
+font-size: 12px;
+font-weight: bold;	
+}
+
+.location a{
+color: #bd8a5c;
+font-size: 12px;
+font-weight: bold;	
+}
+
+.location a:hover{
+color:  #575757;
+font-size: 12px;
+font-weight: bold;	
+}
+
+.geninfo ul li{
+color: #5c6fbd;	
+font-weight: bold;
+font-size: 12px;
+line-height: 18px;	
+}
+
+.geninfo {
+color: white;
+font-weight: normal;
+}

@@ -1,0 +1,54 @@
+/* self clearing rules */
+.selfclear:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+.selfclear { display: inline-block; _height: 1%; }
+/* Hides from IE-mac \*/
+.selfclear { display: block; }
+/* End hide from IE-mac */
+
+
+#upcoming_workshops {
+position: relative;
+top: 20px;
+left: 5px;
+display: block;	
+background: #fff;
+border: double #2a69c1;
+width: 310px;
+padding: 10px;
+
+}
+
+#upcoming_workshops span{
+	color: #5c6fbd;
+	font-family: arial;
+	font-size: 14px;
+	font-weight: bold;	
+}
+
+ .name{
+	color: #5c6fbd;
+	font-family: arial;
+	font-size: 12px;
+	font-weight: bold;	
+}
+
+#upcoming_workshops tr td.title{
+	color: #bd8a5c;
+	font-family: arial;
+	font-size: 12px;
+	font-weight: bold;	
+}
+
+#upcoming_workshops tr td {
+	color: #696969;
+	font-family: arial;
+	font-size: 11px;	
+}
+
+
+ .title{
+	color: #bd8a5c;
+	font-family: arial;
+	font-size: 12px;	
+}
+

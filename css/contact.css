@@ -1,0 +1,33 @@
+.contactinfo {
+color: #5c6fbd;
+font-size: 14px;
+line-height: 24px;
+}
+
+.contactinfo a{
+color: #bd8a5c;
+font-size: 14px;
+}
+
+.contactinfo a:hover{
+color: #444444;
+font-size: 14px;
+}
+
+.caption {
+color: #444444;
+font-size: 11px;
+}
+
+.specialthanks {
+	color: #bd8a5c;
+	font-size: 12px;	
+}
+
+.contactside {
+color:#444444;
+font-style: italic;
+font-size: 12px;
+width: 325px;	
+font-weight: normal;
+}
